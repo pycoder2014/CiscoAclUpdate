@@ -1,0 +1,9 @@
+hosts:
+  - 192.168.101.10
+
+access-list:
+  access-list 10:
+    - access-list 10 permit 192.168.101.0 0.0.0.255
+    - access-list 10 permit 192.168.102.0 0.0.0.255
+    - access-list 10 permit 192.168.103.0 0.0.0.255
+
