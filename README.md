@@ -23,7 +23,6 @@ pip install -r requirements.txt
 
 Add parameters to the (params.yaml) yaml file.
 
-Example
 
 ```yaml
 hosts:
@@ -39,7 +38,6 @@ access-list:
 
 Execute script.
 
-Example
 
 ```console
 > python .\script.py
