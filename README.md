@@ -1,7 +1,7 @@
 # CiscoAclUpdate
 
 ## Overview
----
+
 Script to update ACL on Cisco IOS devices.
 
 The script read the input from the params yaml file, connects to each of the listed devices then update the device ACL. Pre and post-change configs for each device are saved to the config folder.
@@ -9,7 +9,7 @@ The script read the input from the params yaml file, connects to each of the lis
 
 
 ## Installation
----
+
 
 ```console
 
