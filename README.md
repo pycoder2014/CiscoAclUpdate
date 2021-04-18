@@ -20,7 +20,6 @@ pip install -r requirements.txt
 ```
 
 ## Usage
----
 
 Add parameters to the (params.yaml) yaml file.
 
